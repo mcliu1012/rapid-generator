@@ -22,6 +22,12 @@
             <!--<scope>provided</scope>-->
             <scope>compile</scope>
         </dependency>
+        
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>9.4-1204-jdbc42</version>
+        </dependency>
 
     </dependencies>
 
